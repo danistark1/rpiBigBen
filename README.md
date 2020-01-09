@@ -1,6 +1,5 @@
 # rpiBigBen
-An RPi Big-Ben project
-
+An RPi Big-Ben project. Turn a raspberry pi into a big-ben clock.
 
 # Update RPi
 sudo apt-get update
