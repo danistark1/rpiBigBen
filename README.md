@@ -21,5 +21,7 @@ Under clockScript, this script will run every 1hr and every 30 mins.
 # Finally, create a cronjob to run that script
 Create this cron job to run the created clock script.
 crontab -e
+```bash
 0,30 * * * * bash /home/pi/big-ben/clock.sh (if you want it to run all day)
 0,30 9,10,11,12,15,16,17,18,19,20 * * * bash /home/pi/big-ben/clock.sh (certain hours of the day)
+```
