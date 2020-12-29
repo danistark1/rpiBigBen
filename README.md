@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/danistark1/rpiBigBen/blob/master/animatedClock.gif" />
+</p>
+
 # rpiBigBen
 An RPi Big-Ben project. Turn a raspberry pi into a big-ben clock.
 
