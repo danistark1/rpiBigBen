@@ -25,6 +25,10 @@ cd /home/pi/big-ben
 Under soundFile, 2 files downloaded from the British-Parliment website.
 - https://www.parliament.uk/about/living-heritage/building/palace/big-ben/anniversary-year/downloads/
 
+**Or**
+
+- https://github.com/danistark1/rpiBigBen/tree/master/soundsfiles
+
 # Create a bash script to read the current time
 
 Under clockScript, this script will run every 1hr and every 30 mins. 
