@@ -3,18 +3,25 @@
 </p>
 
 # rpiBigBen
+
 An RPi Big-Ben project. Turn a raspberry pi into a big-ben clock.
 
 # Update RPi
+
+```bash
 sudo apt-get update
 sudo apt-get upgrade
-
+```
 # Install mpv
+
+```bash
 sudo apt-get install mpv
 mkdir /home/pi/big-ben
 cd /home/pi/big-ben
+```
 
 # Use these files for 1hrs/30 mins strikes
+
 Under soundFile, 2 files downloaded from the British-Parliment.
 - https://www.parliament.uk/about/living-heritage/building/palace/big-ben/anniversary-year/downloads/
 
