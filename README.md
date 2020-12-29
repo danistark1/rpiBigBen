@@ -6,6 +6,13 @@
 
 An RPi Big-Ben project. Turn a raspberry pi into a big-ben clock.
 
+# Tools
+
+- A raspberry pi
+- Speakers
+- mpv software
+- big-ben strikes sound files
+
 # Update RPi
 
 ```bash
