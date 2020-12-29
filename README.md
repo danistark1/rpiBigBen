@@ -22,7 +22,7 @@ Under soundFile, 2 files downloaded from the British-Parliment.
 
 Under clockScript, this script will run every 1hr and every 30 mins. 
 
-# Finally, create a cronjob to run that script
+# Create a cronjob to run the script
 Create this cron job to run the created clock script.
 crontab -e
 ```bash
