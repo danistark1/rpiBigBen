@@ -47,3 +47,6 @@ crontab -e
 0,30 * * * * bash /home/pi/big-ben/clock.sh (if you want it to run all day)
 0,30 9,10,11,12,15,16,17,18,19,20 * * * bash /home/pi/big-ben/clock.sh (certain hours of the day)
 ```
+```bash
+0,30 9,10,11,12,17,18,19,20 * * * bash /home/pi/big-ben/clock.sh
+```
