@@ -30,7 +30,7 @@ cd /home/pi/big-ben
 # Use these files for 1hrs/30 mins strikes
 
 Under soundFile, 2 files downloaded from the British-Parliment website.
-- https://www.parliament.uk/about/living-heritage/building/palace/big-ben/anniversary-year/downloads/
+- https://www.parliament.uk/about/living-heritage/building/palace/big-ben/anniversary-year/
 
 **Or**
 
