@@ -8,8 +8,8 @@ An RPi Big-Ben project. Turn a raspberry pi into a big-ben clock.
 
 # Required
 
-- A raspberry pi
-- Speakers to the rpi
+- Raspberry pi / anything running linux
+- Speakers
 - mpv audio software
 - big-ben strikes sound files
 
